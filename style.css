@@ -1,0 +1,52 @@
+#navbarNav {
+  margin-right: 40px;
+}
+/* Hero section */
+#textHallo {
+  margin-top: 200px;
+}
+
+.brand-idzhar{
+    font-size:70px;
+     margin-top: -15px;
+}
+.brand-hello{
+    font-size:30px;
+}
+.brand-iam{
+    font-size:70px;
+    margin-top: -10px;
+}
+.brand-frontend{
+    font-size:30px;
+    margin-top: -10px;
+}
+/* end hero section */
+
+/* start profil section */
+.nama{
+    color:  #626262;;
+    font-size: 40px;
+    margin-top: -20px;
+    
+}
+.profil{
+    font-size: 50px;
+}
+.frontend{
+    color: #626262;
+    margin-top: -25px;
+    font-size: 26px;
+}
+.deskripsi{
+    color: #626262;
+    margin-top: 0px;
+    font-size: 16px;
+}
+/* end profil section */
+.footer{
+    background-color: #73706f;
+}
+#profil{
+    padding: 90px;
+}
